@@ -1,1 +1,3 @@
-# mobility-box
+# Edge-template
+
+Template of Supabase Edge Functions
